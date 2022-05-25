@@ -41,7 +41,9 @@ def treemapGraph(colunaNomes,colunaValores):
 
     v = {'nb_people': [20000, 15000, 21500, 176912, 338200, 338200, 88000, 123500, 12000, 123500]}
 
-    squarify.plot(sizes=v['nb_people'], label=colunaNomes['NM_EMPRESA'], alpha=.8)
+    plt.title('Destino de Recursos Financeiros Por Empresas de Pesquisa Eleitoral', fontsize=20)
+
+    squarify.plot(sizes=v['nb_people'], label=colunaNomes['NM_EMPRESA'], alpha=.8 )
 
     plt.axis('off')
     plt.show()

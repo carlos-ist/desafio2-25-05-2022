@@ -53,14 +53,7 @@ nomeEmpresas = colunaEmLista(planilha, 0)
 valorPagoPelaPesquisa = colunaEmLista(planilha, 1)
 
 print(valorPagoPelaPesquisa)
-#intValorPagoPelaPesquisa = []
-#for valor in valorPagoPelaPesquisa:
-#    intValorPagoPelaPesquisa.append(int(valor))
-
-
-#Preparando para o Treemap
 nomeEmpresas.insert(0, "NM_EMPRESA")
-#valorPagoPelaPesquisa.insert(0, "VR_PESQUISA")
 
 
 print(valorPagoPelaPesquisa)
