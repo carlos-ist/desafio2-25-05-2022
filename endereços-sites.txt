@@ -1,0 +1,6 @@
+https://dadosabertos.tse.jus.br/pt_BR/dataset/pesquisas-eleitorais-atual/resource/3c0e4df8-1e6f-4468-bae1-65aed8c0eac3
+https://dadosabertos.tse.jus.br/pt_BR/dataset/pesquisas-eleitorais-atual
+https://dadosabertos.tse.jus.br/pt_BR/dataset/?groups=pesquisas-eleitorais&res_format=CSV
+
+https://www.portaltransparencia.gov.br/download-de-dados/
+https://www.portaltransparencia.gov.br/download-de-dados/notas-fiscais
